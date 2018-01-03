@@ -1,0 +1,16 @@
+{
+  "name": "as.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "jsdom": "^11.5.1"
+  }
+}
